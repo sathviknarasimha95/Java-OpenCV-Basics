@@ -1,2 +1,2 @@
-# Java-OpenCV-Basics-
+# Java-OpenCV-Basics
 OpenCV Basics implemented in java 
